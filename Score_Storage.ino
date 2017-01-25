@@ -1,4 +1,4 @@
-//NOTHING WORKS AND I HATE MY LIFE
+
 
 /*#include <Wire.h>
 #include <I2CEEPROM.h>
